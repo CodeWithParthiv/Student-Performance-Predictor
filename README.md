@@ -44,8 +44,8 @@ Watch the full walkthrough video on [YouTube]()
 
 ## Screenshots
 
-![Demo Screenshot]()
-![Demo Screenshot]()
+![Demo Screenshot](https://i.postimg.cc/VNRh2KVq/studentss.png)
+![Demo Screenshot](https://i.postimg.cc/502rJ8hZ/studentss2.png)
 
 ---
 
